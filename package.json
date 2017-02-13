@@ -1,0 +1,13 @@
+{
+  "name": "snow-day",
+  "version": "0.0.0",
+  "description": "A Snow Day Predictor",
+  "main": "server.js",
+  "repository": "snow-day",
+  "author": "Caleb Trotz (caleb.trotz@gmail.com)",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
